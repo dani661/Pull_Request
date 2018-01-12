@@ -10,6 +10,12 @@ public class Pull_Request {
         
         System.out.println("Nuevo commit");
         
+        System.out.println("Proyecto creado. Esperando un pull request.");
+        
+        System.out.println("hola");
+        
+        System.out.println("Nuevo commit");
+        
     }
     
 }
